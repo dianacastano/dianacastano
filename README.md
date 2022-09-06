@@ -1,7 +1,5 @@
 ### Hola, ¡Diana Marcela! 👋
 
-<!--
-**dianacastano/dianacastano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Desarrolladora Full Stack en Codenotch
 
@@ -14,4 +12,4 @@ const Diana = {
   tools: [Node, Angular],
   interests: ["front-end", "back-end"],
  }
--->
+
