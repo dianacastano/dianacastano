@@ -1,21 +1,32 @@
-<h2> Hola, ¡Soy Diana Marcela Castaño! <img src="https://media4.giphy.com/media/QxkubpEJCrxRQKPz37/giphy.gif?cid=ecf05e47080927ue6zk5xzdg2iutsqph5qx2upkjcxutfc2v&rid=giphy.gif&ct=s" width="50"></h2>
-<img align="center" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e470di26998hg0vt3m2pfplfzvaj1aijjr7kunnpx2n&rid=giphy.gif&ct=g">
-<p><em>Desarrollador Full Stack en <a href="https://www.codenotch.com/">Codenotch</a></br>
+# Hola 👋, Soy:
+![](https://i.postimg.cc/cJ0ZQMhy/Linked-In-Banner.png) 
+
+Soy programadora web Full Stack. Sin duda, me siento muy afortunada de haber encontrado lo que me apasiona y de hacer de ello mi trabajo.
+
+Mi trayectoria comienza en el mes de julio  cuando inicie a estudiar el bootcamp.
+
+Esta experiencia me permite tener una amplia visión estratégica, así como una mentalidad más abierta, para trasladar ideas que funcionen en un buen proyecto .
+
+Si hay algo que me caracteriza es que me involucro al 100% en todo lo que hago. Soy trabajadora, perfeccionista e inconformista. Tengo un estilo de trabajo directo y creativo. Y pongo toda la energía que me aporta trabajar de aquello que tanto me entusiasma.
+
+## 🚀 Habilidades
+
+- Desarrollo web 🌐  
+<a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML" /></a> <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS" /></a> <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" /></a> <a href="https://angular.io/docs"><img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square" alt="Angular" /></a> <a href="https://nodejs.org/en/docs/"><img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" /></a> <a href="https://ionicframework.com/docs/"><img src="https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white&style=flat-square" alt="Ionic" /></a> <a href="https://getbootstrap.com/docs/"><img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square" alt="Bootstrap" /></a> <a href="https://jquery.com/"><img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat-square" alt="jQuery" /></a>
+- Bases de datos 🗃️  
+<a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="MySQL" /></a> <a href="https://docs.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB" /></a>
+- Control de versiones 🧾  
+<a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git" /></a>
+- Cloud computing ☁️  
+<a href="https://aws.amazon.com/es/getting-started/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"></a>
+- Lenguajes de programación 🖥️  
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
+
+## 📫 Cómo contactarme
 
 
-[![Linkedin: Diana Castaño](https://img.shields.io/badge/-dianaCastaño-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/diana-marcela-casta%C3%B1o-088490247/)](https://www.linkedin.com/in/diana-marcela-casta%C3%B1o-088490247/)
+[![Correo electrónico](https://img.shields.io/badge/Correo%20electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diamarcast1803@gmail.com).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-marcela-casta%C3%B1o-088490247/)
 
 
-
-### Sobre mí...
-
-```javascript
-const Diana = {
- 📍  Vivo en Valencia, España.
-📧  Puedes contactarme en diamarcast1803@gmail.com.
-📱   Mi Telefono es: 643315665.
-}
-```
-<h3 align="left"> 👩‍💻 Lenguajes con los que he trabajado:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
