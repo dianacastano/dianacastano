@@ -21,7 +21,7 @@ Si hay algo que me caracteriza es que me involucro al 100% en todo lo que hago. 
 <a href="https://aws.amazon.com/es/getting-started/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"></a>
 - Lenguajes de programación 🖥️  
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
-<a href="https://www.php.net/manual/es/index.php" target="_blank"><img src="https://img.shields.io/badge/Php-3776AB?logo=python&logoColor=white"></a>
+<a href="https://www.php.net/manual/es/index.php" target="_blank"><img src="https://img.shields.io/badge/Php-3776AB?logo=php&logoColor=white"></a>
 
 ## 📫 Cómo contactarme
 
